@@ -1,0 +1,43 @@
+var resume = { 
+"Profile": {
+
+             "name": "D Leena",
+             "Degree": "B.E (Electronics & Communication Engineering",
+             "Address": "No.5 Sony Nagar 1st street Gandhir Road Velachery",
+             "State": "Tamil Nadu",
+             "City": "Chennai",
+             "Postal Code": "600042",
+             "email ID": "leenamani0797@gmail.com",
+             "Phone Number": "9176214268",
+             "Marital Status": "Unmarried",
+            "Interest": "Dancing",
+    },
+
+"Education": {
+        
+            "School Name": "Vana Vani Matriculation Higher Seconday School",
+            "SSLC Mark": "85%",
+             "HSC Mark": "87%",
+             "Year of Passing School": "2014",
+             "College Name": "Jerusalem College of Engineering",
+             "gpa": "7.5",
+            "Year of passing college": "2018",
+   
+        },
+
+ "Skills": {
+    
+     "name": "'C language', 'Python', 'Javascript', 'HTML'",
+     "level": " Initial",
+    },
+"Work": {
+    
+     "Company name": "Detect Technologies",
+     "Designation": "Senior Data Processing Engineer",
+     "experience": "3 years",
+    }
+}
+
+
+
+console.log(resume);
